@@ -24,7 +24,7 @@
 
 1. Linux /Unix commands
 
-    Link: [https://youtu.be/BMGixkvJ-6w](https://youtu.be/BMGixkvJ-6w)
+    Link: [Linux - Tutorial for Beginners](https://youtu.be/BMGixkvJ-6w)
 
 2. Python
 
@@ -40,21 +40,21 @@
 
     Link: [OpenCV Course - Full Tutorial with Python](https://youtu.be/oXlwWbU8l2o)
 
-    Github Link: [https://github.com/jasmcaus/opencv-course](https://github.com/jasmcaus/opencv-course)
+    Github Link: [OpenCV with Python](https://github.com/jasmcaus/opencv-course)
 
 ### Framework:
 
 5. ROS
 
-    Link: [http://wiki.ros.org/Documentation](http://wiki.ros.org/Documentation)
+    Link: [ROS Wiki Documentation](http://wiki.ros.org/Documentation)
 
-    Github link: [https://github.com/Flying-And-Robotics-Club-NITK/ROS-KEP](https://github.com/Flying-And-Robotics-Club-NITK/ROS-KEP)
+    Github link: [ROS-KEP by FARC | NITK and RoboCon](https://github.com/Flying-And-Robotics-Club-NITK/ROS-KEP)
 
 6. Git
 
-    Link: [https://www.atlassian.com/git/tutorials](https://www.atlassian.com/git/tutorials)
+    Link: [Atlassian Tutorials](https://www.atlassian.com/git/tutorials)
     
-    Link: [https://www.codecademy.com/learn/learn-git ](https://www.codecademy.com/learn/learn-git)
+    Link: [Codecademy | Learn GIT](https://www.codecademy.com/learn/learn-git)
 
 <hr>
 
