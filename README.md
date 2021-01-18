@@ -18,7 +18,7 @@
 
     Book: [Elements of Robotics](https://www.amazon.com/Elements-Robotics-Mordechai-Ben-Ari/dp/3319625322)
 
-## 2)RoboCode
+## 2)Computer Science
 
 1. Linux /Unix commands
 
@@ -54,7 +54,7 @@
     
     Link: [https://www.codecademy.com/learn/learn-git ](https://www.codecademy.com/learn/learn-git)
 
-## 3)RoboTronix
+## 3)Electronics
 
 1. Signals and Systems
 
@@ -74,7 +74,7 @@
 
     Link: [Arduino Documentation](https://www.arduino.cc/en/Guide)
 
-## 4)RoboTorque
+## 4)Mechanical
 
 1. Fusion360
 
@@ -90,7 +90,7 @@
 
     Link: [Blender Tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
-## 5)AeroWing
+## 5)Aeronautics
 
 1. Aerodynamics
 
