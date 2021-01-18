@@ -2,7 +2,7 @@
 
 ## 1)Common
 
-1. Calculus + Differential Equations.
+1. Calculus + Differential Equations
 
     Link: [3BLUE1BROWN Series S2](https://youtu.be/WUvTyaaNkzM)
 
