@@ -48,6 +48,12 @@
 
     Github link: [https://github.com/Flying-And-Robotics-Club-NITK/ROS-KEP](https://github.com/Flying-And-Robotics-Club-NITK/ROS-KEP)
 
+6. Git
+
+    Link: [https://www.atlassian.com/git/tutorials](https://www.atlassian.com/git/tutorials)
+    
+    Link: [https://www.codecademy.com/learn/learn-git ](https://www.codecademy.com/learn/learn-git)
+
 ## 3)RoboTronix
 
 1. Signals and Systems
