@@ -1,6 +1,8 @@
 # **Robotics-Starter-Pack**
 
-## 1)Common
+<hr>
+
+## Common
 
 1. Calculus + Differential Equations
 
@@ -18,7 +20,9 @@
 
     Book: [Elements of Robotics](https://www.amazon.com/Elements-Robotics-Mordechai-Ben-Ari/dp/3319625322)
 
-## 2)Computer Science
+<hr>
+
+## Computer Science
 
 1. Linux /Unix commands
 
@@ -40,7 +44,7 @@
 
     Github Link: [https://github.com/jasmcaus/opencv-course](https://github.com/jasmcaus/opencv-course)
 
-**Framework:**
+### Framework:
 
 5. ROS
 
@@ -54,7 +58,9 @@
     
     Link: [https://www.codecademy.com/learn/learn-git ](https://www.codecademy.com/learn/learn-git)
 
-## 3)Electronics
+<hr>
+
+## Electronics
 
 1. Signals and Systems
 
@@ -74,7 +80,9 @@
 
     Link: [Arduino Documentation](https://www.arduino.cc/en/Guide)
 
-## 4)Mechanical
+<hr>
+
+## Mechanical
 
 1. Fusion360
 
@@ -90,7 +98,9 @@
 
     Link: [Blender Tutorials](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
-## 5)Aeronautics
+<hr>
+
+## Aeronautics
 
 1. Aerodynamics
 
