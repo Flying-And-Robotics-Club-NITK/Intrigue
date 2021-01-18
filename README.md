@@ -1,7 +1,5 @@
 # **Robotics-Starter-Pack**
 
-<hr>
-
 ## Common
 
 1. Calculus + Differential Equations
