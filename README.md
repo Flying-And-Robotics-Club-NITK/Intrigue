@@ -70,6 +70,8 @@
 
     Link: [Control of Mobile Robots by Georgia Tech](https://www.youtube.com/playlist?list=PL2jykFOD1AWYvdLW6Alr55IydU_qFVe31)
 
+    Link: [Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)
+
     Book: [Control Systems Engineering by Norman Nise](https://www.amazon.in/Nises-Control-Systems-Engineering-Wiley/dp/8126571837/ref=sr_1_4?crid=2MCDOQBDNLK9H&amp;dchild=1&amp;keywords=control+systems+engineering&amp;qid=1610944038&amp;s=books&amp;sprefix=Control+Systems+Enhinee%2Cstripbooks%2C298&amp;sr=1-4)
 
 3. Arduino
