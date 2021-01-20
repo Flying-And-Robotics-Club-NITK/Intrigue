@@ -120,7 +120,7 @@
 
     Link: [ANSYS Tutorials](https://www.youtube.com/playlist?list=PL0Ya8d8RGCTqSaM6GbGHXqAUq1ga7-N__)
     
-4.NPTEL
+4. NPTEL
     
     Link: [Aerospace Engineering](https://nptel.ac.in/courses/101/101/101101079/#)
     
