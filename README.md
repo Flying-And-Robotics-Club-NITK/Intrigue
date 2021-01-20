@@ -119,3 +119,9 @@
 3. ANSYS
 
     Link: [ANSYS Tutorials](https://www.youtube.com/playlist?list=PL0Ya8d8RGCTqSaM6GbGHXqAUq1ga7-N__)
+    
+4.NPTEL
+    
+    Link: [Aerospace Engineering](https://nptel.ac.in/courses/101/101/101101079/#)
+    
+    Link: [Introduction to Aerospace Eng/ Flight](https://youtube.com/playlist?list=PLOzRYVm0a65ey1nPhnbfrz59Hvu-NVob7)
